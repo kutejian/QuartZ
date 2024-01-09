@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "hTuskmCv1UuFxbB9kzsKz0GJfQ2Y7RCk8PE/Kp/ivTf8AAPCAV29kz/98uhR0gM4hRs5h6WlEd+QSd70XGaKrw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\wangm\\Desktop\\code\\QuartZJobExten\\QuartZJobExten.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wangm\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\wangm\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\wangm\\.nuget\\packages\\quartz\\3.6.2\\quartz.3.6.2.nupkg.sha512",
+    "C:\\Users\\wangm\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\wangm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\wangm\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\wangm\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\wangm\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\wangm\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\wangm\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

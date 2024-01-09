@@ -1,0 +1,12 @@
+D:\Users\wangm\Desktop\code\QuartZJobExten\bin\Debug\net6.0\QuartZJobExten.deps.json
+D:\Users\wangm\Desktop\code\QuartZJobExten\bin\Debug\net6.0\QuartZJobExten.dll
+D:\Users\wangm\Desktop\code\QuartZJobExten\bin\Debug\net6.0\QuartZJobExten.pdb
+D:\Users\wangm\Desktop\code\QuartZJobExten\obj\Debug\net6.0\QuartZJobExten.csproj.AssemblyReference.cache
+D:\Users\wangm\Desktop\code\QuartZJobExten\obj\Debug\net6.0\QuartZJobExten.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\wangm\Desktop\code\QuartZJobExten\obj\Debug\net6.0\QuartZJobExten.AssemblyInfoInputs.cache
+D:\Users\wangm\Desktop\code\QuartZJobExten\obj\Debug\net6.0\QuartZJobExten.AssemblyInfo.cs
+D:\Users\wangm\Desktop\code\QuartZJobExten\obj\Debug\net6.0\QuartZJobExten.csproj.CoreCompileInputs.cache
+D:\Users\wangm\Desktop\code\QuartZJobExten\obj\Debug\net6.0\QuartZJobExten.dll
+D:\Users\wangm\Desktop\code\QuartZJobExten\obj\Debug\net6.0\refint\QuartZJobExten.dll
+D:\Users\wangm\Desktop\code\QuartZJobExten\obj\Debug\net6.0\QuartZJobExten.pdb
+D:\Users\wangm\Desktop\code\QuartZJobExten\obj\Debug\net6.0\ref\QuartZJobExten.dll
